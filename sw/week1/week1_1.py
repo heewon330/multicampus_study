@@ -1,4 +1,3 @@
-#1 홀수만 더하기
 T = int(input())
 for t in range(1, T + 1):
   num = list(map(int, input().split()))
